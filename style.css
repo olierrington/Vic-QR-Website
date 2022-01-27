@@ -37,7 +37,7 @@ summary {
 	width: 290px;
 }
 
-summary:focus {
+summary:active {
 	box-shadow: 0px 5px 0 #1D2624 inset;
 	outline: 0;
 }
@@ -45,33 +45,3 @@ summary:focus {
 details h2 {
 	padding: 1.5rem 0 0.5rem 0;
 }
-
-/*
-.button {
-	text-decoration: none;
-	padding: 1.5rem 3rem 1.5rem 3rem;
-	border-radius: 1rem;
-	background-color: #3D9C4E;
-	box-shadow: 0px 5px 0 #1D2624;
-	font-weight: bold;
-}
-
-.button:active {
-	box-shadow: 0px 5px 0 #1D2624 inset;
-}
-
-.not-working p {
-	color: #1D2624;
-	margin-top: 3rem;
-	
-}
-
-.not-working a {
-	color: #1D2624;
-	text-decoration: none;
-	
-}
-
-.not-working a:hover {
-	color: white;
-}*/
