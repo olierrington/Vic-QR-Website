@@ -39,3 +39,19 @@ main img {
 .button:active {
 	box-shadow: 0px 5px 0 #1D2624 inset;
 }
+
+.not-working p {
+	padding-top: 3rem;
+	color: #1D2624;
+	
+}
+
+.not-working a {
+	color: #1D2624;
+	text-decoration: none;
+	
+}
+
+.not-working a:hover {
+	color: white;
+}
