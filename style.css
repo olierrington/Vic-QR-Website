@@ -1,0 +1,37 @@
+* {
+	background: #0E4B2F;
+	color: white;
+	margin: 0;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+header {
+	padding: 2rem;
+}
+
+header img {
+	width: 40px;
+	vertical-align: middle;
+	margin-right: 1rem;
+}
+
+main {
+	padding: 0 2rem 2rem 2rem;
+}
+
+main img {
+	width: 30rem;
+	max-width: 100%;
+	padding-top: 2rem;
+	padding-bottom: 4rem;
+}
+
+.button {
+	text-decoration: none;
+	padding: 1.5rem 3rem 1.5rem 3rem;
+	border-radius: 1rem;
+	background-color: #3D9C4E;
+	box-shadow: 0px 5px 0 #1D2624;
+	font-weight: bold;
+}
