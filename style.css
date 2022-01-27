@@ -40,12 +40,9 @@ main img {
 	box-shadow: 0px 5px 0 #1D2624 inset;
 }
 
-.not-working {
-	margin-top: 3rem;
-}
-
 .not-working p {
 	color: #1D2624;
+	margin-top: 3rem;
 	
 }
 
