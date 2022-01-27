@@ -21,7 +21,7 @@ main {
 }
 
 main img {
-	width: 30rem;
+	width: 22rem;
 	max-width: 100%;
 	padding-top: 2rem;
 	padding-bottom: 4rem;
@@ -34,4 +34,8 @@ main img {
 	background-color: #3D9C4E;
 	box-shadow: 0px 5px 0 #1D2624;
 	font-weight: bold;
+}
+
+.button:active {
+	box-shadow: 0px 5px 0 #1D2624 inset;
 }
