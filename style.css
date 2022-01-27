@@ -24,24 +24,19 @@ main img {
 	width: 22rem;
 	max-width: 100%;
 	padding-top: 2rem;
-	padding-bottom: 4rem;
+	padding-bottom: 2rem;
 }
 
-summary {
-	text-decoration: none;
-	padding: 1.5rem 3rem 1.5rem 3rem;
-	border-radius: 1rem;
-	background-color: #3D9C4E;
-	box-shadow: 0px 5px 0 #1D2624;
-	font-weight: bold;
-	width: 290px;
+h2 {
+	font-size: 2em;;
+	color: #3D9C4E;
+	padding-bottom: 1rem;
 }
 
-summary:active {
-	box-shadow: 0px 5px 0 #1D2624 inset;
-	outline: 0;
+.instructions p {
+	padding-bottom: 2rem;
 }
 
-details h2 {
-	padding: 1.5rem 0 0.5rem 0;
+footer {
+	height: 2rem;
 }
